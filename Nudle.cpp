@@ -7,5 +7,6 @@ using namespace std;
 int main()
 {
 	cout << "NUDLE\n";
-	cout << PassGen();
+	cout << PassGen() << endl;
+
 }
